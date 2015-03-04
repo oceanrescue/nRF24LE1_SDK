@@ -10,7 +10,7 @@ Three things were added to SDK:
 
 NOTE
 =====
-- Original nRF24LE1 SDK you could found at [Brennen's blog](http://blog.diyembedded.com).
+- Original nRF24LE1 SDK you could find at [Brennen's blog](http://blog.diyembedded.com).
 This fork looks like version 4 of that SDK. Previouse version 3.0 you could find 
 [here](http://www.diyembedded.com/lib/nrf24le1/nrf24le1_sdk_v3.0.zip).
 
